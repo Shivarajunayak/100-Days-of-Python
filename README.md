@@ -3,7 +3,7 @@
 
 ### A coding challenge of Dr.Angela Yu course.
 
-[100 Days of Python](https://www.udemy.com/course/100-days-of-code/)
+[Udemy course link](https://www.udemy.com/course/100-days-of-code/)
 
 ### or
-[Course Link](https://100daysofpython.dev/)
+[Website link](https://100daysofpython.dev/)
